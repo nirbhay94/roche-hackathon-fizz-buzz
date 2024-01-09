@@ -32,7 +32,13 @@ AND
 
 You can start the server with:
 
-```uvicorn main:app --reload  ```
+```uvicorn main:app --reload```
+
+## API Documentation
+
+```curl --location 'http://127.0.0.1:8000/?int1=3&int2=5&limit=25&str1=fizz&str2=buzz'```
+
+http://127.0.0.1:8000/?int1=3&int2=5&limit=25&str1=fizz&str2=buzz
 
 ## Testing
 
