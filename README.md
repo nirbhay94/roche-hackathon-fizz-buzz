@@ -1,7 +1,7 @@
 # Roche hackathon FizzBuzz - Phase1
 
 ---
-This repo implement a robust and production-ready Fizz-Buzz REST Server that follows the classic Fizz-Buzz logic. The server exposes a REST API endpoint, with an additional feature of a statistical endpoint.
+This repo implement a robust and production-ready Fizz-Buzz REST Server that follows the classic Fizz-Buzz logic. The server exposes a REST API endpoint.
 
 This project is built using Python FastAPI framework
 ---
