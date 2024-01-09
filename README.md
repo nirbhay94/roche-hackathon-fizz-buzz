@@ -20,11 +20,6 @@ OR
 
 ```pip3 install fastapi```
 
-
-You can start the server with:
-
-```uvicorn main:app --reload  ```
-
 For testing install
 
 ```pip install httpx```
@@ -33,6 +28,11 @@ AND
 
 ```pip3 install pytest```
 
+## Run application
+
+You can start the server with:
+
+```uvicorn main:app --reload  ```
 
 ## Testing
 
